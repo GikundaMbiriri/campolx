@@ -1,0 +1,19 @@
+.tr {
+    width: 250px;
+    height: 400px;
+}
+.pp {
+    width: 240px;
+    height: 390px;
+}
+.im {
+    width: 240px;
+    height: 150px;
+    object-fit: cover;
+}
+.desc {
+    display: block !important;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
